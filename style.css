@@ -3,8 +3,10 @@
     font-family: Poppins;
 }
 body {
-    background-image: url('images/background.jpg');
+    background-image: url('images/background2.jpg');
     background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
   }
 .hometxt{
     text-align: center;
