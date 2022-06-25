@@ -1,2 +1,3 @@
-# hpilanka
-This is Official repo. of "HPILANKA" website 
+# HPILANKA - From GSLK
+
+Available at: https://hpilanka.ga
