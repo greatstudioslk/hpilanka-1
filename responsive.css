@@ -2,4 +2,10 @@
     .hometxt2{
         font-size: 60px;
     }
+    body {
+        background-image: url('images/background4.jpg');
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: fixed;
+      }
 }
