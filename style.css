@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&display=swap');
 *{
-    font-family: Poppins;
+    font-family: Anek Latin;
 }
 body {
     background-image: url('images/background2.jpg');
